@@ -1,2 +1,2 @@
-# test
+# Conflict
 Change on master
