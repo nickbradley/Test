@@ -1,2 +1,2 @@
-# Conflict
+# Conflict - LOCAL
 Change on master
